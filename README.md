@@ -14,9 +14,9 @@ for train GANs
 
 ## The result
 Training epoch is 13 for DCGAN
-![image](https://github.com/XPping/pytorch-GAN/master/images/dcgan_13_fake.png)
+![image](https://github.com/XPping/pytorch-GAN/images/dcgan_13_fake.png)
 Training epoch is 8 for WGAN-GP
-![image](https://github.com/XPping/pytorch-GAN/master/images/wgan_gp_8_fake.png)
+![image](https://github.com/XPping/pytorch-GAN/images/wgan_gp_8_fake.png)
 Training epoch is 8 for BEGAN
-![image](https://github.com/XPping/pytorch-GAN/master/images/began_8_fake.png)
+![image](https://github.com/XPping/pytorch-GAN/images/began_8_fake.png)
 
