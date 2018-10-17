@@ -16,8 +16,24 @@ for train GANs
 Training epoch is 13 for DCGAN
 ![image](https://github.com/XPping/pytorch-GAN/raw/master/images/dcgan_13_fake.png)
 
+
+
+
+
+
+
+
 Training epoch is 8 for WGAN-GP
 ![image](https://github.com/XPping/pytorch-GAN/raw/master/images/wgan_gp_8_fake.png)
+
+
+
+
+
+
+
+
+
 
 Training epoch is 8 for BEGAN
 ![image](https://github.com/XPping/pytorch-GAN/raw/master/images/began_8_fake.png)
