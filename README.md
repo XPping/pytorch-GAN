@@ -13,6 +13,10 @@ In train.py we can call
 for train GANs
 
 ## The result
-Train epoch is 13
-
+Training epoch is 13 for DCGAN
+![image](https://github.com/XPping/pytorch-GAN/edit/master/images/dcgan_13_fake.png)
+Training epoch is 8 for WGAN-GP
+![image](https://github.com/XPping/pytorch-GAN/edit/master/images/wgan_gp_8_fake.png)
+Training epoch is 8 for BEGAN
+![image](https://github.com/XPping/pytorch-GAN/edit/master/images/began_8_fake.png)
 
