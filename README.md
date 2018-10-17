@@ -10,4 +10,9 @@ In train.py we can call
   train_dcgan(config)
   train_wgan(config)
   train_began(config)
-for train
+for train GANs
+
+## The result
+Train epoch is 13
+
+
