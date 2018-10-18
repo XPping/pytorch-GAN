@@ -5,6 +5,9 @@ pytorch0.4, DCGAN, WGAN-GP,BEGAN
 Python3.5
 pytorch0.4
 
+# Dataset
+CelebA-crop-face
+
 ## Train DCGAN, WGAN/WGAN-GP, BEGAN
 In train.py we can call 
   train_dcgan(config)
